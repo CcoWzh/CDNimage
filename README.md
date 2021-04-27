@@ -18,3 +18,12 @@ git commit -m '提交信息'      //把文件提交到仓库
 git push                      //推送至远程仓库
 ```
 
+在`markdown` 中，引用图片时，只需要：
+
+```shell
+https://cdn.jsdelivr.net/gh/GitHub用户名/仓库名/图片路径
+
+# 在文件中引用，如：
+# ![](https://cdn.jsdelivr.net/gh/CcoWzh/CDNimage/gRPC/gRPC-cert1.png)
+```
+
